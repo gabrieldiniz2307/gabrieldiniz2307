@@ -25,10 +25,6 @@ Sou um apaixonado por Ciências de Dados e Analista de Dados em formação. Tenh
 - ![Big Data](https://img.shields.io/badge/-Big%20Data-FF6F00?style=flat-square&logo=apache-spark&logoColor=white)
 - **Inteligência Artificial**: Estou sempre explorando novas técnicas e algoritmos de IA, aplicando-os em projetos pessoais e profissionais.
 
-## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/joaogabrieldiniz/)
 - [E-mail](joaogabrieldiniz23@gmail.com)
