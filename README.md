@@ -7,6 +7,7 @@ Sou um apaixonado por Ciências de Dados e Analista de Dados e estou no 6º peri
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldiniz2307&show_icons=true&theme=algolia)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldiniz2307&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
