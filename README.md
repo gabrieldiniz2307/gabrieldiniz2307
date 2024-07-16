@@ -4,8 +4,7 @@
 
 ## Sobre mim
 Sou um apaixonado por Ciências de Dados e Analista de Dados em formação. Tenho experiência em trabalhar com diversas tecnologias e linguagens de programação. Além disso, sou fascinado por inteligência artificial e estou sempre buscando aprender mais sobre essa área.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldiniz2307)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldiniz2307&show_icons=true&theme=algolia)
 ## 🚀 Habilidades
 - **Linguagens de Programação**: 
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
