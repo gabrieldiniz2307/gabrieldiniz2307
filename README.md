@@ -1,4 +1,4 @@
-# Olá, Eu sou [João Gabriel Diniz] 👋
+# Olá, Eu sou João Gabriel Diniz 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=blueviolet)
 
